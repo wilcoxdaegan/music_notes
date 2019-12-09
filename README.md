@@ -4,3 +4,5 @@ A simple JavaFX flashcard application used for studying music notes. It uses han
 One of the biggest challenges I faced was exporting it to a .jar file, then packing it into a .exe file. Learning about the changes from old versions of Java to newer ones, JavaFX became much more complex. Ultimately, I found the best solution was to just revert to Java 1.8, which allowed everything to work properly. 
 
 A way to improve this app would be to give choices on studying specific clefs, adding alto clefs, or becoming more Anki-like and adding data analysis tools based on how the user responds.
+
+A major regret is indeed packaging this into an .exe file. Unfortunately, I lost the source code, and there's no way (that I know of) to find it.
